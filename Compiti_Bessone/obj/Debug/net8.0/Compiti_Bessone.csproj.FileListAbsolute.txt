@@ -1,0 +1,29 @@
+C:\Users\cateb\source\repos\Compiti_Bessone\bin\Debug\net8.0\Compiti_Bessone.exe
+C:\Users\cateb\source\repos\Compiti_Bessone\bin\Debug\net8.0\Compiti_Bessone.deps.json
+C:\Users\cateb\source\repos\Compiti_Bessone\bin\Debug\net8.0\Compiti_Bessone.runtimeconfig.json
+C:\Users\cateb\source\repos\Compiti_Bessone\bin\Debug\net8.0\Compiti_Bessone.dll
+C:\Users\cateb\source\repos\Compiti_Bessone\bin\Debug\net8.0\Compiti_Bessone.pdb
+C:\Users\cateb\source\repos\Compiti_Bessone\obj\Debug\net8.0\Compiti_Bessone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cateb\source\repos\Compiti_Bessone\obj\Debug\net8.0\Compiti_Bessone.AssemblyInfoInputs.cache
+C:\Users\cateb\source\repos\Compiti_Bessone\obj\Debug\net8.0\Compiti_Bessone.AssemblyInfo.cs
+C:\Users\cateb\source\repos\Compiti_Bessone\obj\Debug\net8.0\Compiti_Bessone.csproj.CoreCompileInputs.cache
+C:\Users\cateb\source\repos\Compiti_Bessone\obj\Debug\net8.0\Compiti_Bessone.dll
+C:\Users\cateb\source\repos\Compiti_Bessone\obj\Debug\net8.0\refint\Compiti_Bessone.dll
+C:\Users\cateb\source\repos\Compiti_Bessone\obj\Debug\net8.0\Compiti_Bessone.pdb
+C:\Users\cateb\source\repos\Compiti_Bessone\obj\Debug\net8.0\Compiti_Bessone.genruntimeconfig.cache
+C:\Users\cateb\source\repos\Compiti_Bessone\obj\Debug\net8.0\ref\Compiti_Bessone.dll
+C:\Users\cateb\Desktop\Nuova cartella\EserciziGP1\Compiti_Bessone\bin\Debug\net8.0\Compiti_Bessone.exe
+C:\Users\cateb\Desktop\Nuova cartella\EserciziGP1\Compiti_Bessone\bin\Debug\net8.0\Compiti_Bessone.deps.json
+C:\Users\cateb\Desktop\Nuova cartella\EserciziGP1\Compiti_Bessone\bin\Debug\net8.0\Compiti_Bessone.runtimeconfig.json
+C:\Users\cateb\Desktop\Nuova cartella\EserciziGP1\Compiti_Bessone\bin\Debug\net8.0\Compiti_Bessone.dll
+C:\Users\cateb\Desktop\Nuova cartella\EserciziGP1\Compiti_Bessone\bin\Debug\net8.0\Compiti_Bessone.pdb
+C:\Users\cateb\Desktop\Nuova cartella\EserciziGP1\Compiti_Bessone\obj\Debug\net8.0\Compiti_Bessone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cateb\Desktop\Nuova cartella\EserciziGP1\Compiti_Bessone\obj\Debug\net8.0\Compiti_Bessone.AssemblyInfoInputs.cache
+C:\Users\cateb\Desktop\Nuova cartella\EserciziGP1\Compiti_Bessone\obj\Debug\net8.0\Compiti_Bessone.AssemblyInfo.cs
+C:\Users\cateb\Desktop\Nuova cartella\EserciziGP1\Compiti_Bessone\obj\Debug\net8.0\Compiti_Bessone.csproj.CoreCompileInputs.cache
+C:\Users\cateb\Desktop\Nuova cartella\EserciziGP1\Compiti_Bessone\obj\Debug\net8.0\Compiti_Bessone.sourcelink.json
+C:\Users\cateb\Desktop\Nuova cartella\EserciziGP1\Compiti_Bessone\obj\Debug\net8.0\Compiti_Bessone.dll
+C:\Users\cateb\Desktop\Nuova cartella\EserciziGP1\Compiti_Bessone\obj\Debug\net8.0\refint\Compiti_Bessone.dll
+C:\Users\cateb\Desktop\Nuova cartella\EserciziGP1\Compiti_Bessone\obj\Debug\net8.0\Compiti_Bessone.pdb
+C:\Users\cateb\Desktop\Nuova cartella\EserciziGP1\Compiti_Bessone\obj\Debug\net8.0\Compiti_Bessone.genruntimeconfig.cache
+C:\Users\cateb\Desktop\Nuova cartella\EserciziGP1\Compiti_Bessone\obj\Debug\net8.0\ref\Compiti_Bessone.dll
